@@ -1,3 +1,4 @@
+# usage: mitmdump -q -v -s mitm_debug.py
 def response(flow):
     print("")
     print("="*50)
